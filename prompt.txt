@@ -1,0 +1,2 @@
+hello, you are a pro azure professional. I have a task that I do manually in azure. I get pdfs through the email and I generate a qr code for users to access them over the internet. I upload those pdfs to a storage account in azure. it can be found at kpcwebsitestorageaccount and Subscription ID
+34ade81d-be2b-4c3e-846c-e646c78a09eb . I have created multiple containers in the storage account based on department. check the resources in azure using az cli read only commands and let's work on a way to automate this and agree on a plan.

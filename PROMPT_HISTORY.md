@@ -80,7 +80,7 @@ the browser authorization), created the repo, and pushed.
 **Prompt:** `md file is not on gitgub`
 
 **Outcome:** Confirmed the agent file *is* on GitHub at
-[.github/agents/qr-pdf-publisher.agent.md](https://github.com/Turkiooops/QR-Code-Gen/blob/main/.github/agents/qr-pdf-publisher.agent.md) —
+[.github/agents/qr-pdf-publisher.agent.md](https://github.com/byturki/QR-Code-Gen/blob/main/.github/agents/qr-pdf-publisher.agent.md) —
 it's just not surfaced on the repo's main page since GitHub doesn't feature the
 `.github/agents` folder like it does `README.md` or `.github/workflows`.
 
@@ -92,4 +92,4 @@ it's just not surfaced on the repo's main page since GitHub doesn't feature the
 
 ---
 
-**Repository:** https://github.com/Turkiooops/QR-Code-Gen
+**Repository:** https://github.com/byturki/QR-Code-Gen
